@@ -1,6 +1,7 @@
 ---
 # title: Home
-layout: home
+# layout: home
+layout: page
 ---
 ![5cm/s](files/banner.png)
 
