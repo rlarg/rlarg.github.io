@@ -49,7 +49,7 @@ FILE
 
 - There are quite a few but at the but you'll only really need to use and edit a few of them to get a basic website running.
 
-- To actually run the website, press `ctrl '` in VSCode to open up a terminal.
+- To run the website, press `ctrl '` in VSCode to open up a terminal.
 
 - `cd` into  the directory where you saved your `FILE`
 
