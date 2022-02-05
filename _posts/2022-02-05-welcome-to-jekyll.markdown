@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Setting up your own personal website
-permalink: Info
+permalink: info
 ---
 
 We'll be using [Jekyll][jekyll-docs] to make the website and hosting it through [Github Pages](https://docs.github.com/en/pages/quickstart).
