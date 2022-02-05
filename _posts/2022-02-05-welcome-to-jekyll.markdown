@@ -56,11 +56,10 @@ FILE
 - Into the terminal, type `bundle exec jekyll serve` and follow the link to the server to see your website in your default browser.
 
 ---
-_In progress:_
 > #### 3. Customisation
 > #### 4. Hosting
 
-Follow this [YouTube seminar](https://www.youtube.com/watch?v=8NkxcaxRacA) to complete your setting up your own website.  
+[YouTube seminar](https://www.youtube.com/watch?v=8NkxcaxRacA) to complete your setting up your own website.  
 
 ---
 
