@@ -7,11 +7,29 @@
     - name: GitHub
       url: https://github.com/rlarg/gol-skeleton
 
-- title: Agent Based Model of COVID-19
+- title: Scotland Yard 
+  img: mrx.png
+  description: Scotland Yard is a board game where one piece tries to outrun the others. The piece uses Minimax to maximise its distance from other pieces.
+  url: https://github.com/rlarg/scotland-yard
+  category: project
+  links: 
+  - name: Github
+    url: https://github.com/rlarg/scotland-yard
+
+- title: Agent-based model of COVID-19
   img: mesa.png
-  description: Developed agent-based model of the coronavirus to predict spread of infection in a controlled environment.
+  description: A model which simulates the spread of the coronavirus to multiple agents in a system, used to predict the spread of infection in a controlled environment.
   url: https://github.com/spades1404/ABMCovid
   category: project
   links: 
   - name: Nuffield Researchers Stream
     url: https://www.youtube.com/watch?v=_Qev7KNUXTA
+
+- title: Water Treatment Digital Twin
+  img: water.png
+  description: A digital twin tool intended to aid in the running and designing of water treatment plants.
+  url: https://github.com/spe-uob/2022-WaterTreatmentDigitalTwin
+  category: project
+  links:
+    - name: GitHub
+      url: https://github.com/spe-uob/2022-WaterTreatmentDigitalTwin
