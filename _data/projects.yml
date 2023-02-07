@@ -18,7 +18,7 @@
 
 - title: Agent-based model of COVID-19
   img: mesa.png
-  description: A model which simulates the spread of the coronavirus to multiple agents in a system, used to predict the spread of infection in a controlled environment.
+  description: A model designed to predict the spread of coranavirus in a controlled environment across mutiple agents.
   url: https://github.com/spades1404/ABMCovid
   category: project
   links: 
