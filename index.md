@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello!
+# Hello
 
 I'm Ram, a second year computer science student based in the UK. I'm currently studying for my bachelor's at Bristol University, expecting to graduate in 2024.
 
