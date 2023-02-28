@@ -33,3 +33,12 @@
   links:
     - name: GitHub
       url: https://github.com/spe-uob/2022-WaterTreatmentDigitalTwin
+
+- title: Pose Matching
+  img: eden.png
+  description: Eden is a pose estimation and detection system for matching webcam poses to an MP4 model. 
+  url: https://fabulous-biscochitos-79e2f4.netlify.app/
+  category: project
+  links:
+    - name: GitHub
+      url: https://github.com/Beatrice-cyber/Engineers-of-Eden
