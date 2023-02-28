@@ -2,5 +2,7 @@
   link: /
 # - name: Videos
   # link: /videos
+- name: CV
+  link: /cv
 - name: GitHub
   link: https://github.com/rlarg
