@@ -3,4 +3,6 @@ layout: default
 # center: true
 ---
 
-<embed src="assets/pdf/cv.pdf" width="700" height="950" type="application/pdf"/>
+<object data="assets/pdf/cv.pdf" width="100%" height="960" type="application/pdf">
+        <div>No online PDF viewer installed</div>
+</object>
