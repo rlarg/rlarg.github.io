@@ -65,7 +65,7 @@ h1 {
     margin-top: 10px;
 }
 
-.embed object, .embed embed {
+.embed iframe, .embed object, .embed embed {
     position: absolute;
     top: 0;
     left: 0;
