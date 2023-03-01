@@ -2,10 +2,11 @@
 layout: default
 # center: true
 ---
-
+<!-- 
 <object data="assets/pdf/cv.pdf" width="100%" height="960">
-        <div>No online PDF viewer installed</div>
-</object>
-<!-- <iframe src="assets/pdf/cv.pdf" width="100%" height="960" >
-        <div>No online PDF viewer installed</div>
-</iframe> -->
+        <p>See <a href="assets/pdf/cv.pdf" target="_blank" rel="noreferrer">my CV</a> for more details of the projects I've worked on.</p>
+</object> -->
+
+<iframe src="assets/pdf/cv.pdf" width="100%" height="1000" frameborder="0" >
+        <p>See <a href="assets/pdf/cv.pdf" target="_blank" rel="noreferrer">my CV</a> for more details of the projects I've worked on.</p>
+</iframe>
