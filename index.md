@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Hello
+# Final-year undergraduate 
 
-I'm Ram, a second year computer science student based in the UK. I'm currently studying for my bachelor's at Bristol University, expecting to graduate in 2024.
+I'm Ram, a third year computer science student based in the UK. I'm currently studying for my bachelor's degree at Bristol University, expecting to graduate in 2024.
 
 Contact me at <pharadonlarg@gmail.com>.
 
