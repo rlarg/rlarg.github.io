@@ -6,7 +6,7 @@ layout: default
 
 I'm Ram, a third year computer science student based in the UK. I'm currently studying for my bachelor's degree at Bristol University, expecting to graduate in 2024.
 
-Contact me at <pharadonlarg@gmail.com>.
+pharadonlarg at gmail.com
 
 ## Projects
 
